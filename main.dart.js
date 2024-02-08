@@ -80361,12 +80361,12 @@ return A.R(n.GU(0,A.az(["votes",p+1],t.N,t.S)),$async$qG)
 case 3:return A.N(null,r)}})
 return A.O($async$qG,r)},
 ab3(){this.ai(new A.aeB(this))},
-N(a){var s,r=this,q=null,p=t.F,o=A.nm(q,A.a7a(A.b([A.aqP("assets/chiefs.png",100,100),A.e8("Super Bowl 58 Annual Culinary Competition",q,q,q,A.jj(q,q,B.j,q,q,q,q,q,q,q,q,24,q,q,B.ip,q,q,!0,q,q,q,q,q,q,q,q),q,q),A.aqP("assets/fourtynine.png",100,100)],p),B.j1,B.cC),B.x,q,q,new A.dh(B.GS,q,q,q,q,q,B.bc),q,q,q,new A.aJ(16,16,16,16),q,q,q),n=A.b([],p)
+N(a){var s,r=this,q=null,p=t.F,o=A.nm(q,A.a7a(A.b([A.aqP("assets/chiefs.png",50,50),A.e8("Super Bowl 58 Annual Culinary Competition",q,q,q,A.jj(q,q,B.j,q,q,q,q,q,q,q,q,15,q,q,B.ip,q,q,!0,q,q,q,q,q,q,q,q),q,q),A.aqP("assets/fourtynine.png",50,50)],p),B.j1,B.cC),B.x,q,q,new A.dh(B.GS,q,q,q,q,q,B.bc),q,q,q,new A.aJ(16,16,16,16),q,q,q),n=A.b([],p)
 if(!r.x)n.push(A.H_(A.e8(r.f?"Exit Voting Mode":"Enter Voting Mode",q,q,q,q,q,q),r.gai9()))
 if(!r.x)n.push(A.H_(A.e8("Add Picture",q,q,q,q,q,q),new A.aey(r,a)))
 if(r.f)n.push(A.H_(A.e8("Clear Votes",q,q,q,q,q,q),r.gab2()))
 s=r.d
-p=A.b([o,A.nm(q,A.a7a(n,B.rt,B.cC),B.x,q,q,q,q,q,q,new A.aJ(24,16,24,16),q,q,q),A.mp(q,10,q),A.aAS(new A.zR(new A.aez(r),A.BS(s,s.gey().j7("pictures")).Ul(),q,t.mk))],p)
+p=A.b([o,A.nm(q,A.a7a(n,B.rt,B.cC),B.x,q,q,q,q,q,q,new A.aJ(24,5,24,5),q,q,q),A.mp(q,10,q),A.aAS(new A.zR(new A.aez(r),A.BS(s,s.gey().j7("pictures")).Ul(),q,t.mk))],p)
 if(r.f)p.push(A.H_(A.e8("Submit Votes",q,q,q,q,q,q),new A.aeA(r)))
 return new A.z6(A.G7(p,B.eE,B.cC),q)}}
 A.aes.prototype={
