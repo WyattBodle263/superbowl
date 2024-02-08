@@ -80361,7 +80361,7 @@ return A.R(n.GU(0,A.az(["votes",p+1],t.N,t.S)),$async$qG)
 case 3:return A.N(null,r)}})
 return A.O($async$qG,r)},
 ab3(){this.ai(new A.aeB(this))},
-N(a){var s,r=this,q=null,p=t.F,o=A.nm(q,A.a7a(A.b([A.aqP("assets/chiefs.png",50,50),A.e8("Super Bowl 58 Annual Culinary Competition",q,q,q,A.jj(q,q,B.j,q,q,q,q,q,q,q,q,15,q,q,B.ip,q,q,!0,q,q,q,q,q,q,q,q),q,q),A.aqP("assets/fourtynine.png",50,50)],p),B.j1,B.cC),B.x,q,q,new A.dh(B.GS,q,q,q,q,q,B.bc),q,q,q,new A.aJ(16,16,16,16),q,q,q),n=A.b([],p)
+N(a){var s,r=this,q=null,p=t.F,o=A.nm(q,A.a7a(A.b([A.aqP("assets/chiefs.png",50,50),A.e8("Super Bowl 58 Annual \n Culinary Competition",q,q,q,A.jj(q,q,B.j,q,q,q,q,q,q,q,q,15,q,q,B.ip,q,q,!0,q,q,q,q,q,q,q,q),q,q),A.aqP("assets/fourtynine.png",50,50)],p),B.j1,B.cC),B.x,q,q,new A.dh(B.GS,q,q,q,q,q,B.bc),q,q,q,new A.aJ(16,16,16,16),q,q,q),n=A.b([],p)
 if(!r.x)n.push(A.H_(A.e8(r.f?"Exit Voting Mode":"Enter Voting Mode",q,q,q,q,q,q),r.gai9()))
 if(!r.x)n.push(A.H_(A.e8("Add Picture",q,q,q,q,q,q),new A.aey(r,a)))
 if(r.f)n.push(A.H_(A.e8("Clear Votes",q,q,q,q,q,q),r.gab2()))
